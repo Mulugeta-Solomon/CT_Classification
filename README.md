@@ -35,8 +35,7 @@ This repository documents the process of creating an ART (Computed Tomography) i
 - Include visual aids such as graphs and tables to support your results.
 - Consider ethical considerations, data privacy, and any limitations in your study.
 
-'''
-
+``` git clone https://github.com/Mulugeta-Solomon/CT_Classification.git ```
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
